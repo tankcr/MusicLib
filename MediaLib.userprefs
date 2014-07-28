@@ -3,8 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="MediaLib\MainWindow.cs">
     <Files>
       <File FileName="MediaLib\Program.cs" Line="1" Column="1" />
-      <File FileName="MediaLib\GetAndroidDevices.cs" Line="130" Column="1" />
-      <File FileName="MediaLib\Properties\AssemblyInfo.cs" Line="27" Column="1" />
+      <File FileName="MediaLib\GetAndroidDevices.cs" Line="1" Column="1" />
       <File FileName="MediaLib\app.config" Line="1" Column="1" />
       <File FileName="MediaLib\DeviceInfo.cs" Line="1" Column="1" />
       <File FileName="MediaLib\MainWindow.cs" Line="24" Column="4" />
