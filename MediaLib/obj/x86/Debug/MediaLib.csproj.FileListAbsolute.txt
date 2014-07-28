@@ -1,5 +1,4 @@
 C:\Users\kriroy\Documents\GitHub\MediaLib\MediaLib\bin\Debug\MediaLib.exe.config
-C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\obj\x86\Debug\MediaLib.g.resources
 C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\bin\Debug\MediaLib.exe.config
 C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\bin\Debug\MediaLib.exe
 C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\bin\Debug\MediaLib.pdb
@@ -19,5 +18,9 @@ C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\bin\Debug\OxyPlot.GtkSharp.pd
 C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\bin\Debug\OxyPlot.GtkSharp.xml
 C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\bin\Debug\OxyPlot.WindowsForms.pdb
 C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\obj\x86\Debug\MediaLib.csproj.MediaLib.exe.config
+C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\obj\x86\Debug\MediaLib.g.resources
+C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\obj\x86\Debug\MediaLib.Properties.Resources.resources
+C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\obj\x86\Debug\MediaLib.csproj.GenerateResource.Cache
 C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\obj\x86\Debug\MediaLib.exe
 C:\Users\kriroy\Documents\GitHub\MusicLib\MediaLib\obj\x86\Debug\MediaLib.pdb
