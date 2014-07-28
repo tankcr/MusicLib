@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Mono.Posix</id>
+    <version>4.0.0.0</version>
+    <title>Mono.Posix</title>
+    <authors>Markus Mayer, Mono</authors>
+    <owners>Markus Mayer, Mono</owners>
+    <licenseUrl>https://github.com/mono/mono/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mono/mono/tree/master/mcs/class/Mono.Posix</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>POSIX interface for Mono and .NET</description>
+    <copyright>The Mono Project</copyright>
+    <language>en-US</language>
+    <tags>Mono Unix Linux Posix</tags>
+  </metadata>
+</package>
